@@ -9,7 +9,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: Julia Yumi Nishihiro
   image: '/assets/img/01.jpg'
-  job: Aluna pesquisadora no CiDAMO
+  job: Bolsista do MEXT Profissionalizante
   bio: Técnica em Mecânica pelo IFPR. Apaixonada por Ciência de Dados e métodos ágeis de gestão. MEXT
   email: julia.nishihiro@outlook.com
 
@@ -22,6 +22,8 @@ contact:
     link: https://github.com/ynishihiro
   - name: Instagram
     link: https://instagram.com/ynishihiro
+  - name: Twitter
+    link: https://twitter.com/Japanese_Lume
 
 
 # Comment Section (Disqus)
